@@ -1,30 +1,30 @@
+# SCT_DS_1 - Data Visualization
 
-# SCT_DS_1
+## 📌 Task Objective
+Create a Bar Chart to visualize the distribution of a categorical variable using the Inc. 5000 Company List 2014 dataset.
 
-## Task 1: Data Visualization
-
-### Objective
-Create a Bar Chart and Histogram to visualize the distribution of categorical and continuous variables using the Inc. 5000 Company List 2014 dataset.
-
-### Tools Used
+## 🛠 Tools Used
 - Tableau Public
 
-### Dataset
+## 📂 Dataset
 Inc. 5000 Company List 2014
 
-### Visualizations
-- Bar Chart: Distribution of Companies by Industry
-- Histogram: Distribution of Employees
+## 📊 Visualization
 
-### Observations
-- The bar chart shows the number of companies in each industry.
-- The histogram illustrates the distribution of employee counts across companies.
-- Most companies have relatively fewer employees, while only a few have a large workforce.
+### Bar Chart: Distribution of Companies by Industry
 
-### Conclusion
-These visualizations provide insights into industry-wise company distribution and employee distribution, helping understand the characteristics of the Inc. 5000 dataset.
+#### Description
+The bar chart illustrates the number of companies across different industries in the Inc. 5000 Company List 2014 dataset. Each bar represents an industry, while the height of the bar indicates the number of companies belonging to that industry. This visualization helps compare the representation of different industries and identify the sectors with the highest and lowest number of companies.
 
-## Author
-KAIRAM SRIRANGANATH
+## 📈 Observations
+- The dataset contains companies from a wide range of industries.
+- Some industries have significantly more companies than others.
+- The bar chart makes it easy to compare the distribution of companies across industries.
 
-SkillCraft Technology - Data Science Internship
+## ✅ Conclusion
+The bar chart provides a clear visual representation of the distribution of companies by industry. It helps identify the most represented industries in the dataset and demonstrates how data visualization can simplify the analysis of categorical data.
+
+---
+**Internship:** SkillCraft Technology – Data Science Internship
+
+**Task:** SCT_DS_1 – Data Visualization using Tableau Public
