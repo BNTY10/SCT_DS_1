@@ -27,4 +27,5 @@ These visualizations provide insights into industry-wise company distribution an
 
 ## Author
 KAIRAM SRIRANGANATH
+
 SkillCraft Technology - Data Science Internship
