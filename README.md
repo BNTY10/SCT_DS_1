@@ -1,5 +1,4 @@
-# SCT_DS_1
-SkillCraft Technology Data Science Internship - Task 1
+
 # SCT_DS_1
 
 ## Task 1: Data Visualization
