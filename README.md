@@ -26,5 +26,5 @@ Inc. 5000 Company List 2014
 These visualizations provide insights into industry-wise company distribution and employee distribution, helping understand the characteristics of the Inc. 5000 dataset.
 
 ## Author
-Your Name
+KAIRAM SRIRANGANATH
 SkillCraft Technology - Data Science Internship
